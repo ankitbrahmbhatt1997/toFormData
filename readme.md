@@ -33,7 +33,7 @@ const options = {
   useBracketsForObjects: false,
 };
 
-const formData = serialize(
+const formData = toFormData(
   object,
   options // optional
 );
