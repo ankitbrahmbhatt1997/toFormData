@@ -1,0 +1,16 @@
+{
+  "name": "@ankit_brahmbhatt/toformdata",
+  "version": "1.0.0",
+  "description": "A small javascript utility for converting to form data",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ankit Brahmbhatt",
+  "license": "ISC",
+  "keywords": [
+    "formData",
+    "javascript",
+    "object"
+  ]
+}
