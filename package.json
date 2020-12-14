@@ -7,10 +7,12 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Ankit Brahmbhatt",
-  "license": "ISC",
+"repository":"ankitbrahmbhatt1997/toFormData",
+  "license": "MIT",
   "keywords": [
     "formData",
     "javascript",
-    "object"
+    "object",
+"npm"
   ]
 }
